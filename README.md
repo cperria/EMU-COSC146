@@ -105,4 +105,6 @@ Here are some web pages that you may need to refer to:
           PRECIP_HLY_sample_csv
    -My first choice is analyzing the hockey data. I have all the data in an excel file. I will put all the raw data in one sheet and convert to .csv file.        
      
-    
+  - **Chris Perria**
+      - [De-identified clinical information (including Alzheimer’s disease, dementia, and TBI diagnoses) for all donors included in the study.](https://aging.brain-map.org/download/index) I am very interested in age related diseses. 
+     - [Board Game Review Data](https://www.kaggle.com/gabrio/board-games-dataset) I like to play board games. this may help me find the next game to purchase
